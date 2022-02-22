@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="17" passed="17" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-02-15T17:31:20 IST" name="Suite" finished-at="2022-02-15T17:31:20 IST" duration-ms="109">
+    <groups>
+      <group name="smoke">
+        <method signature="class1.personalloan()[pri:0, instance:testNGtutorial.class1@1f97cf0d]" name="personalloan" class="testNGtutorial.class1"/>
+        <method signature="classone.college()[pri:0, instance:testNGtutorial.classone@696da30b]" name="college" class="testNGtutorial.classone"/>
+        <method signature="personalloan.loanamount()[pri:0, instance:testNGtutorial.personalloan@1eb5174b]" name="loanamount" class="testNGtutorial.personalloan"/>
+      </group> <!-- smoke -->
+    </groups>
+    <test started-at="2022-02-15T17:31:20 IST" name="Test" finished-at="2022-02-15T17:31:20 IST" duration-ms="109">
+      <class name="testNGtutorial.homeloan">
+        <test-method signature="begore()[pri:0, instance:testNGtutorial.homeloan@5fd4f8f5]" started-at="2022-02-15T17:31:20 IST" name="begore" finished-at="2022-02-15T17:31:20 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- begore -->
+        <test-method signature="execuit()[pri:0, instance:testNGtutorial.homeloan@5fd4f8f5]" started-at="2022-02-15T17:31:20 IST" name="execuit" finished-at="2022-02-15T17:31:20 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- execuit -->
+        <test-method signature="homeloanamount()[pri:0, instance:testNGtutorial.homeloan@5fd4f8f5]" started-at="2022-02-15T17:31:20 IST" name="homeloanamount" finished-at="2022-02-15T17:31:20 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- homeloanamount -->
+        <test-method signature="homeloanperiod()[pri:0, instance:testNGtutorial.homeloan@5fd4f8f5]" started-at="2022-02-15T17:31:20 IST" name="homeloanperiod" finished-at="2022-02-15T17:31:20 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- homeloanperiod -->
+        <test-method signature="status()[pri:0, instance:testNGtutorial.homeloan@5fd4f8f5]" started-at="2022-02-15T17:31:20 IST" name="status" finished-at="2022-02-15T17:31:20 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- status -->
+      </class> <!-- testNGtutorial.homeloan -->
+      <class name="testNGtutorial.personalloan">
+        <test-method signature="loanamount()[pri:0, instance:testNGtutorial.personalloan@1eb5174b]" started-at="2022-02-15T17:31:20 IST" name="loanamount" finished-at="2022-02-15T17:31:20 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loanamount -->
+        <test-method signature="loanrate()[pri:0, instance:testNGtutorial.personalloan@1eb5174b]" started-at="2022-02-15T17:31:20 IST" name="loanrate" finished-at="2022-02-15T17:31:20 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loanrate -->
+        <test-method signature="loanstatus()[pri:0, instance:testNGtutorial.personalloan@1eb5174b]" started-at="2022-02-15T17:31:20 IST" name="loanstatus" finished-at="2022-02-15T17:31:20 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loanstatus -->
+      </class> <!-- testNGtutorial.personalloan -->
+      <class name="testNGtutorial.classone">
+        <test-method signature="clssroom()[pri:0, instance:testNGtutorial.classone@696da30b]" started-at="2022-02-15T17:31:20 IST" name="clssroom" finished-at="2022-02-15T17:31:20 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clssroom -->
+        <test-method signature="college()[pri:0, instance:testNGtutorial.classone@696da30b]" started-at="2022-02-15T17:31:20 IST" name="college" finished-at="2022-02-15T17:31:20 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- college -->
+        <test-method signature="lasttestcase()[pri:0, instance:testNGtutorial.classone@696da30b]" started-at="2022-02-15T17:31:20 IST" name="lasttestcase" finished-at="2022-02-15T17:31:20 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- lasttestcase -->
+      </class> <!-- testNGtutorial.classone -->
+      <class name="testNGtutorial.class1">
+        <test-method signature="personalloan()[pri:0, instance:testNGtutorial.class1@1f97cf0d]" started-at="2022-02-15T17:31:20 IST" name="personalloan" finished-at="2022-02-15T17:31:20 IST" duration-ms="11" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- personalloan -->
+      </class> <!-- testNGtutorial.class1 -->
+      <class name="testNGtutorial.carloan">
+        <test-method signature="Loanstatus()[pri:0, instance:testNGtutorial.carloan@4e7912d8]" started-at="2022-02-15T17:31:20 IST" name="Loanstatus" finished-at="2022-02-15T17:31:20 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Loanstatus -->
+        <test-method signature="Tenureperiod(java.lang.String,java.lang.String)[pri:0, instance:testNGtutorial.carloan@4e7912d8]" started-at="2022-02-15T17:31:20 IST" name="Tenureperiod" data-provider="getData" finished-at="2022-02-15T17:31:20 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[fistusername]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[firstpassword]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Tenureperiod -->
+        <test-method signature="Tenureperiod(java.lang.String,java.lang.String)[pri:0, instance:testNGtutorial.carloan@4e7912d8]" started-at="2022-02-15T17:31:20 IST" name="Tenureperiod" data-provider="getData" finished-at="2022-02-15T17:31:20 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[secondusername]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[secondpassword]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Tenureperiod -->
+        <test-method signature="Tenureperiod(java.lang.String,java.lang.String)[pri:0, instance:testNGtutorial.carloan@4e7912d8]" started-at="2022-02-15T17:31:20 IST" name="Tenureperiod" data-provider="getData" finished-at="2022-02-15T17:31:20 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[thirsdpassword]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[thirdpassword]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Tenureperiod -->
+        <test-method signature="loanrate()[pri:0, instance:testNGtutorial.carloan@4e7912d8]" started-at="2022-02-15T17:31:20 IST" name="loanrate" finished-at="2022-02-15T17:31:20 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loanrate -->
+      </class> <!-- testNGtutorial.carloan -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
